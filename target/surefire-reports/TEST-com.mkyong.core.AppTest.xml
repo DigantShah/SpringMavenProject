@@ -14,7 +14,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value="Service Pack 1"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\shahd\Documents\GitHub\CoreJavaProjects\Spring3Example"/>
+    <property name="user.dir" value="C:\Users\shahd\Documents\GitHub\CoreJavaProjects"/>
     <property name="java.runtime.version" value="1.6.0_35-b10"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.6.0_35\jre\lib\endorsed"/>
@@ -25,7 +25,7 @@
     <property name="java.vm.specification.vendor" value="Sun Microsystems Inc."/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 7"/>
-    <property name="classworlds.conf" value="C:\Users\shahd\workspace_eclipse\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf8342950373002310374.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\shahd\workspace_eclipse\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf4041849228712704064.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk1.6.0_35\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk1.6.0_35/bin/../jre/bin/server;C:/Program Files/Java/jdk1.6.0_35/bin/../jre/bin;C:/Program Files/Java/jdk1.6.0_35/bin/../jre/lib/amd64;C:\app\shahd\product\11.2.0\dbhome_1\bin;C:\10gClient\bin;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Internet Explorer;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\IBM\Lotus\Notes\;C:\apps\apache-ant-1.7.1-NoDep\bin;c:\apps\md5.exe;C:\apache-maven-3.1.1\bin;C:\Program Files\Java\jdk1.6.0_35\bin;C:\eclipse-jee-luna-R-win32-x86_64\eclipse;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -52,7 +52,7 @@
     <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.6.0_35\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.6.0_35\jre\lib\resources.jar;C:\Program Files\Java\jdk1.6.0_35\jre\lib\rt.jar;C:\Program Files\Java\jdk1.6.0_35\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.6.0_35\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.6.0_35\jre\lib\jce.jar;C:\Program Files\Java\jdk1.6.0_35\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.6.0_35\jre\lib\modules\jdk.boot.jar;C:\Program Files\Java\jdk1.6.0_35\jre\classes"/>
     <property name="java.vendor" value="Sun Microsystems Inc."/>
-    <property name="maven.home" value="C:\Users\shahd\Documents\GitHub\CoreJavaProjects\Spring3Example\EMBEDDED"/>
+    <property name="maven.home" value="C:\Users\shahd\Documents\GitHub\CoreJavaProjects\EMBEDDED"/>
     <property name="file.separator" value="\"/>
     <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi"/>
     <property name="sun.cpu.endian" value="little"/>
