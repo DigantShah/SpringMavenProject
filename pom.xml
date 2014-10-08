@@ -33,8 +33,31 @@
 		</dependency>
 
 	</dependencies>
+<build>
+    
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-scm-plugin</artifactId>
+        <version>1.9.2</version>
+        <configuration>
+          <connectionType>connection</connectionType>
+        </configuration>
+        
+      </plugin>
+    
+    </plugins>
+  
+  </build>
+
+
 	<ciManagement>
 		<system>jenkins</system>
 		<url>http://172.29.239.30:8080/jenkins/</url>
 	</ciManagement>
+	<scm>
+		<url>scm:git://https://github.com/DigantShah/SpringMavenProject</url>
+
+		<connection>scm:git:fetch=https://github.com/DigantShah/SpringMavenProject.git</connection>
+	</scm>
 </project>
